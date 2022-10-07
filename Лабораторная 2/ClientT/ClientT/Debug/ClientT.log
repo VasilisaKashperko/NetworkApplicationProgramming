@@ -1,5 +1,0 @@
-﻿  ClientT.cpp
-d:\Учеба в БГТУ\ПСП\Лабораторная 2\ClientT\ClientT\ClientT.cpp(165,13): warning C4101: obuf: неиспользованная локальная переменная
-d:\Учеба в БГТУ\ПСП\Лабораторная 2\ClientT\ClientT\ClientT.cpp(164,14): warning C4101: ibuf: неиспользованная локальная переменная
-d:\Учеба в БГТУ\ПСП\Лабораторная 2\ClientT\ClientT\ClientT.cpp(25): warning C4715: LetItGo: значение возвращается не при всех путях выполнения
-  ClientT.vcxproj -> D:\Учеба в БГТУ\ПСП\Лабораторная 2\ClientT\Debug\ClientT.exe
